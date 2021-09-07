@@ -1,0 +1,32 @@
+'''
+
+Game parameters used by main.py
+Change the difficulty and other stuff here
+
+Defaults:
+
+FPS = 90 
+GRAVITY = 0.3
+JUMP_VELOCITY = 2
+TERMINAL_VELOCITY = 20
+GAP = 710
+PIPE_VEL = 3
+
+PIPE_X_START = 700
+PIPE_Y_START = 400
+BIRD_X_START = -130
+BIRD_Y_START = 0
+
+'''
+
+FPS = 90 
+GRAVITY = 0.3
+JUMP_VELOCITY = 2
+TERMINAL_VELOCITY = 20
+GAP = 710
+PIPE_VEL = 3
+
+PIPE_X_START = 700
+PIPE_Y_START = 400
+BIRD_X_START = -130
+BIRD_Y_START = 0
